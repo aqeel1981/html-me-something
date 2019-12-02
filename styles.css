@@ -1,0 +1,31 @@
+body{
+    background-image: url('images/liverpool_logo.jpg');
+    background-position: center;
+    background-size: cover;
+    background-repeat:  no-repeat;
+}
+.block{
+    color: blue;
+    height: 200px;
+}
+
+#liverpool{
+    color: red;
+    font-family: serif;
+    text-align: center;
+    font-size: 400%;
+    text-shadow: 3px 2px black;
+}
+
+.liverpoolsong{
+    clear:both;
+    padding:30px;
+    line-height: 55%;
+    color: blueviolet;
+    border: black;
+    background-color: lightpink;
+    text-align: center;
+    width: 400px;
+    border-style: dashed;
+    margin: auto;
+}
